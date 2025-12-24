@@ -69,6 +69,21 @@ Currently, I am exploring the intersection of AI, cloud infrastructure, and soci
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask)
 
+
+## 🏅 Badges
+
+<p align="center">
+  <a href="https://holopin.io/@nayandg07">
+    <img src="https://holopin.me/nayandg07" alt="Holopin badges" />
+  </a>
+</p>
+
+<p align="center">
+  Click to view all Hacktoberfest & Holopin badges
+</p>
+
+
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NayandG07&show_icons=true&count_private=true&theme=tokyonight)
