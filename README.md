@@ -13,7 +13,7 @@ Currently, I am exploring the intersection of AI, cloud infrastructure, and soci
 * 🌍  I'm based in Guwahati, India
 * 🖥️  See my portfolio at [nayandeep.dev](http://nayandeep.dev)
 * ✉️  You can contact me at [nayandg8@gmail.com](mailto:nayandg8@gmail.com)
-* 🚀  I'm currently working on [Misinformation Heatmap](http://#)
+* 🚀  I'm currently working on [Misinformation Heatmap](https://misinfo-heatmap-india.netlify.app/)
 * 🧠  I'm currently learning NextJs & AI/ML
 * 👥  I'm looking to collaborate on AI, full stack, and open source projects
 
